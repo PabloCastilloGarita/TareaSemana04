@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "406806013540",
+    "project_id": "tarea-9f515",
+    "storage_bucket": "tarea-9f515.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406806013540:android:7cc1f96537374da45fa171",
+        "android_client_info": {
+          "package_name": "com.tarea"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "406806013540-n4dpvna451viad4m2anqc67a8stb27li.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBReGa6HIxuMJdQW0snMPmWw4nxEMnTyz4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "406806013540-n4dpvna451viad4m2anqc67a8stb27li.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406806013540:android:4001952e4049f9455fa171",
+        "android_client_info": {
+          "package_name": "com.tareasemana04"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "406806013540-n4dpvna451viad4m2anqc67a8stb27li.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBReGa6HIxuMJdQW0snMPmWw4nxEMnTyz4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "406806013540-n4dpvna451viad4m2anqc67a8stb27li.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
